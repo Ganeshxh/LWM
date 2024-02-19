@@ -1,4 +1,4 @@
-#! /bin/bash
+#! /bin/bash/dash
 
 sudo umount /mnt/ramdisk
 sudo rm -rf /mnt/ramdisk
